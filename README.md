@@ -1,0 +1,2 @@
+# pysudoko
+python exercise 
